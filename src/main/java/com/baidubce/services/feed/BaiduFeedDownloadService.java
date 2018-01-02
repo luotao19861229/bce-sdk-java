@@ -362,7 +362,7 @@ public class BaiduFeedDownloadService extends AbstractBceClient {
         type.setReportType(703);
         type.setStatRange(7);
         type.setUnitOfTime(5);
-        type.setDevice(0);
+//        type.setDevice(0);
         type.setMaterialStyle(0);
         return type;
     }
